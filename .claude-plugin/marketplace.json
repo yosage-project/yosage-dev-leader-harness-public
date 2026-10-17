@@ -1,0 +1,14 @@
+{
+  "name": "yosage-dev-leader-harness",
+  "description": "Claude Code のプラグイン yosage-dev-leader-harness を配るマーケットプレイス",
+  "owner": {
+    "name": "yosage-project"
+  },
+  "plugins": [
+    {
+      "name": "yosage-dev-leader-harness",
+      "source": "./leader-harness",
+      "description": "リーダー(実装者を統制するメインセッション)向けの運用規律と leader-loop スキル。ハーネス本体 yosage-dev-harness の導入を前提にする"
+    }
+  ]
+}

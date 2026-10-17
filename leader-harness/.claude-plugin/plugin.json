@@ -1,0 +1,6 @@
+{
+  "name": "yosage-dev-leader-harness",
+  "description": "リーダー(実装者を統制するメインセッション)向けの運用規律と leader-loop スキル",
+  "version": "0.1.1",
+  "author": { "name": "yosage-project" }
+}
